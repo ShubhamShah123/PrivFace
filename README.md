@@ -2,7 +2,7 @@
 
 ### Overview
 <div style="text-align: justify">
-PrivFace is an interactive Streamlit-based application that allows users to upload images, apply privacy-preserving obfuscation methods to the images, and visualize the results in real-time. The app provides three different obfuscation techniques <i>("DP Snow", "DP Pix", and "DP Samp")</i> that use differential privacy to modify the uploaded images while maintaining privacy.
+PrivFace is an interactive Streamlit-based application that allows users to upload images, apply privacy-preserving obfuscation methods to the images, and visualize the results. The app provides three different obfuscation techniques <i>("DP Snow", "DP Pix", and "DP Samp")</i> that use differential privacy to modify the uploaded images while maintaining privacy.
 </div<
 
 ### Features
