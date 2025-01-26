@@ -108,7 +108,7 @@ The ``` apply-effects ``` function maps the user provided methods and parameters
 3. Allow users to download the obfuscated images.
 4. Implement batch processing for multiple images.
 5. Integrate a preview of parameter effects before applying them.
-
+6. Use CNN for obfuscation from a live video using the camera.
 ---
 ### References
 
