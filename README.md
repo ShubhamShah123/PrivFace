@@ -17,7 +17,7 @@ PrivFace is an interactive Streamlit-based application that allows users to uplo
 
 4. <strong>Streamlined Interface:</strong> A clean and interactive interface makes it easy to experiment with different settings.
 
-You can view the demo of the application: ["Demo"]('https://privface.streamlit.app/')
+You can view the demo of the application: [Demo](https://privface.streamlit.app/)
 ---
 ### Installation and Setup
 #### Prerequisites
