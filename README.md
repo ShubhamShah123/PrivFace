@@ -16,6 +16,8 @@ PrivFace is an interactive Streamlit-based application that allows users to uplo
 3. <strong>Customizable Parameters:</strong> Each method has adjustable sliders for parameters like privacy budget (<i>&#948;</i>) , block size (<i>b</i>), number of pixels(<i>m</i>) and number of clusters(<i>k</i>).
 
 4. <strong>Streamlined Interface:</strong> A clean and interactive interface makes it easy to experiment with different settings.
+
+You can view the demo of the application: ["https://privface.streamlit.app/"]('DEMO')
 ---
 ### Installation and Setup
 #### Prerequisites
